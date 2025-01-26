@@ -1,0 +1,19 @@
+import java.awt.*;
+public class Login{
+
+public static void main(String args[]){
+Frame frame =new frame();
+setTitle("Login");
+setSize(400, 400);
+setLayout(null);
+Label l1 = new Label();
+l1.setText("Username");
+l1.setAlignment(Label.LEFT);
+l1.setBounds(20, 30, 40, 60);
+setTitle("Password");
+setSize(400, 400);
+setLayout(null);
+Label l1 = new Label();
+l1.setText("First Label");
+l1.setAlignment(Label.LEFT);
+l1.setBounds(20, 30, 40, 60);
